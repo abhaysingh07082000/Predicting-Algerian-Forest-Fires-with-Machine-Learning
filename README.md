@@ -29,8 +29,12 @@ Machine Learning Algorithms-
 The following machine learning algorithms have been implemented on the data:
 
 Linear Regression Model
+
 Lasso Regression
+
 Ridge Regression
+
 ElasticNet Regression
+
 
 The results of the machine learning models are compared and evaluated, and the best performing model is selected based on its accuracy.
